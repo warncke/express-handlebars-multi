@@ -1,0 +1,25 @@
+{
+  "author": "Ersun Warncke <ersun.warncke@gmail.com>",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "lodash": "^4.17.4",
+    "merge-args": "^0.1.0"
+  },
+  "description": "Express handlebars view engine with support for multiple layouts, partials, and views directories",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT",
+  "main": "lib/express-handlebars-multi.js",
+  "name": "express-handlebars-multi",
+  "repository": "warncke/express-handlebars-multi",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.0.1"
+}
