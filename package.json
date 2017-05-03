@@ -5,7 +5,7 @@
     "bluebird": "3.5.0",
     "debug": "2.6.6",
     "globby": "6.1.0",
-    "handlebars": "4.0.6",
+    "handlebars": "4.0.8",
     "lodash": "4.17.4",
     "merge-args": "0.2.2",
     "mz": "2.6.0"
@@ -26,5 +26,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.18"
+  "version": "0.1.19"
 }
