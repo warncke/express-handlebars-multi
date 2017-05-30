@@ -12,7 +12,7 @@
   },
   "description": "Express handlebars view engine with support for multiple layouts, partials, and views directories",
   "devDependencies": {
-    "chai": "3.5.0",
+    "chai": "4.0.0",
     "chai-as-promised": "6.0.0",
     "mocha": "3.4.2"
   },
@@ -26,5 +26,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.1.24"
+  "version": "0.1.25"
 }
