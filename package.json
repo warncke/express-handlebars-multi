@@ -7,7 +7,7 @@
     "globby": "6.1.0",
     "handlebars": "4.0.10",
     "lodash": "4.17.4",
-    "merge-args": "0.2.13",
+    "merge-args": "0.2.14",
     "mz": "2.7.0"
   },
   "description": "Express handlebars view engine with support for multiple layouts, partials, and views directories",
@@ -26,5 +26,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.2.16"
+  "version": "0.2.17"
 }
