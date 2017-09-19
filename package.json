@@ -8,13 +8,13 @@
     "handlebars": "4.0.10",
     "lodash": "4.17.4",
     "merge-args": "0.2.13",
-    "mz": "2.6.0"
+    "mz": "2.7.0"
   },
   "description": "Express handlebars view engine with support for multiple layouts, partials, and views directories",
   "devDependencies": {
     "chai": "4.1.2",
     "chai-as-promised": "7.1.1",
-    "mocha": "3.5.1"
+    "mocha": "3.5.3"
   },
   "directories": {
     "test": "test"
@@ -26,5 +26,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.2.15"
+  "version": "0.2.16"
 }
