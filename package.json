@@ -14,7 +14,7 @@
   "devDependencies": {
     "chai": "4.1.2",
     "chai-as-promised": "7.1.1",
-    "mocha": "4.0.1"
+    "mocha": "4.1.0"
   },
   "directories": {
     "test": "test"
@@ -26,5 +26,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "version": "0.2.26"
+  "version": "0.2.27"
 }
